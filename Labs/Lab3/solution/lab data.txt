@@ -1,0 +1,2 @@
+Throttle pot: 3.5kOhms
+Yaw pot: 4.6kOhms
